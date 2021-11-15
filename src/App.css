@@ -1,0 +1,37 @@
+.projects {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.footer.card {
+    position: static;
+    height: 10em;
+    bottom: 0;
+    width: 100%;
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.contactForm {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+.cardProject {
+    margin-top: 5rem;
+}
+
+.aboutMe {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.gary {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10rem;
+}
